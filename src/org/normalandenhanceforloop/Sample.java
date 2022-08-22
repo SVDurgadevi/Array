@@ -13,7 +13,7 @@ public class Sample {
    a[7]=8;
    a[8]=9;
    a[9]=10;
-  
+  a[10]=11;
    int sum = 0;
 
 //enhance for loop
