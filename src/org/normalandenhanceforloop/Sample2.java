@@ -1,5 +1,4 @@
 package org.normalandenhanceforloop;
-
 public class Sample2 {
 	public static void main(String[] args) {      
 		int[] a= new int[10];
@@ -12,7 +11,7 @@ public class Sample2 {
 		   a[6]=7;
 		   a[7]=8;
 		   a[8]=9;
-		   a[9]=10;
+		 
 		   
 		  int sum=0;
 		//enhance for loop
